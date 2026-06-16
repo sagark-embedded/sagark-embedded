@@ -25,7 +25,7 @@
 > PIC18F4580 · CAN Protocol · Multi-ECU
 - Multi-ECU communication over CAN bus
 - Real-time logging of speed, impact, ignition state
-- [View Project →](https://github.com/sagark-embedded/car-black-box-pic18f4580))
+- [View Project →](link-to-repo)
 
 ### 🤖 Railway Crack Detection Robot
 > ESP32-CAM · Sensor Fusion · Autonomous
